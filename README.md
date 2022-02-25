@@ -1,5 +1,4 @@
 # Hi 👋, I'm Carlos Ortega
----
 
 I am a person passionate about
 programming, which has led me to take
