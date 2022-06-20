@@ -3,7 +3,7 @@
 I am a person passionate about programming, which has led me to take courses and read books, for my learning and improvement. The effort to learn new things and continuous improvement has become one of my strengths. I consider myself a responsible person, eager to learn and patient.
 * 🖥️  See my portfolio at [MyPortfolio](https://portfolio-carlos.vercel.app/)
 * ✉️  You can contact me at [carlos.ortega.ast0318@gmail.com](mailto:carlos.ortega.ast0318@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js and TypeScript
 
 ### Skills
 
